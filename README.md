@@ -1,6 +1,10 @@
-# RedisBungee
+# RedisBungee-Updated
 
-RedisBungee bridges [Redis](http://redis.io) and BungeeCord together. This is the solution deployed on [The Chunk](http://thechunk.net) to make sure our multi-Bungee setup flows smoothly together.
+RedisBungee bridges [Redis](http://redis.io) and BungeeCord together.
+
+## Download
+
+You can download latest version here : [Actions Github](https://github.com/systeme-cardinal/RedisBungee-Updated/actions) Version JDK8/11
 
 ## Compiling
 
